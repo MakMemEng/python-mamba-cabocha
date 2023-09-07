@@ -17,7 +17,6 @@
                         "source.fixAll": true
                     }
                 },
-                "terminal.integrated.defaultProfile.linux": "zsh",
                 "ruff.args": ["--select=E,W,F,B,I,N,A,UP,C4,PL,PD,NPY,C90,COM"]
             },
             "extensions": [
